@@ -1,4 +1,5 @@
 # ProyectoFinal---2022-2023
+## COMENTARIOS DHR
 
 Para este proyecto se quiere elaborar una web de ventas de ropa, en la que ciertos tipos de usuarios tengan acceso a crear dicha ropa y venderla
 libremente en la web.
