@@ -4,7 +4,14 @@ Para este proyecto se quiere elaborar una web de ventas de ropa, en la que ciert
 libremente en la web.
 
 ¿Cuáles son los objetivos de la aplicación?
-  -El objetivo de esta aplicación web es generar un mercado de ropa hecha por los propios usuarios de la web, para lo que se creara dos principales secciones dentro de la    web, una donde el propio usuario pueda crear su ropa y otra una mercado donde se pueda comprar esta
+  -El objetivo de esta aplicación web es generar un mercado de ropa hecha por los propios usuarios de la web, para lo que se creara dos principales secciones dentro de la    web, una donde el propio usuario pueda crear su ropa y otra una mercado donde se pueda comprar esta.
+  
+Tecnologias utilizadas
+  - Frontend : Javascript y Css
+  - Backend : Laravel (PHP)
+  - BBDD : MySQL
+  - CV : Git
+  - Desliegue: AWS
 
 La página contará con los siguientes apartados:
 
