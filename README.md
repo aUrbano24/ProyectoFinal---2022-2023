@@ -21,5 +21,9 @@ La página contará con los siguientes apartados:
   - Creación de ropa
   - Login
 
+Base de datos:
+
+![imagen](https://user-images.githubusercontent.com/91953243/236269972-cecf2d73-5be8-4825-8004-95f04239991f.png)
+
 
 Este seria un protipo de como se vería la web: https://www.figma.com/proto/ziV419fYU18s7umvpsx0y2/Proyecto-Moises?node-id=8-11&starting-point-node-id=8%3A11
